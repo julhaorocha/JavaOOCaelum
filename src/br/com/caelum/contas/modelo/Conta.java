@@ -1,4 +1,9 @@
 package br.com.caelum.contas.modelo;
+/**
+ * Classe responsável por moldar as contas do banco
+ * 
+ * @author Julio Rocha*/
+
 
 public class Conta {
 	
